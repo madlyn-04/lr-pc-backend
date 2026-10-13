@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/repair-booking.js": {
+      "maxDuration": 15
+    }
+  }
+}
